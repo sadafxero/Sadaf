@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: rgb(255, 102, 0);                               
+}
+.admin{
+    background-color: #ffffff;
+    width: 40%;
+    margin: 10% auto;
+    padding: 50px;
+    padding-top: 0;
+    border-radius: 5%;
+    box-shadow: 3px 3px 23px rgb(71, 71, 71);
+    text-align: center;
+}
+.admin img{
+margin: 0 auto;
+display: block;
+margin-top: 10px 0px;
+}
+.admin h1{
+text-align: center;
+margin: 20px 0px;
+font-weight: bolder;
+}
+.admin form{
+display: block;
+margin: 50px;
+}
+.admin form input{
+width: 92%;
+padding: 15px;
+margin: 10px 0px;
+border-radius: 10px;
+background-color: rgb(215, 236, 252);
+border: reb(215, 236, 252);
+}
+#btn {
+display: block;
+width: 100%;
+background-color:rgb(0, 153, 255);
+color: white;
+font-size: 18px;
+}
+a{
+text-decoration: none;
+font-size: 24px;
+color: red;
+font-weight: bolder;
+display: block;
+margin-top: 50px;
+}
+.mem {
+    margin: 20px 0px;
+}
